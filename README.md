@@ -82,14 +82,14 @@ This section presents visualizations using `ggplot2` to highlight key findings r
 
 The following plots summarize these insights:
 
-1. Total number of rides for each member type by day of the week. viz
-
-2. Average ride length for each member type by day of the week. viz
-
-3. Median ride length for each member type by day of the week. viz
-
-4. Average ride length for each member type by month. viz
-
+1. Total number of rides for each member type by day of the week.
+   ![Alt Text](URL_to_image)
+3. Average ride length for each member type by day of the week. 
+   ![Alt Text](URL_to_image)
+4. Median ride length for each member type by day of the week. 
+   ![Alt Text](URL_to_image)
+5. Average ride length for each member type by month.
+   ![Alt Text](URL_to_image)
 
 # Summary
 ***
