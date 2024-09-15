@@ -1,6 +1,6 @@
 ## Cyclistic Bike-Share: Analyzing User Behavior to Drive Membership Growth
    
-![Cyclistic Logo](image)
+![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/black%20bike%20logo.jpg)
 
 ## Project Overview
 ***
@@ -83,13 +83,16 @@ This section presents visualizations using `ggplot2` to highlight key findings r
 The following plots summarize these insights:
 
 1. Total number of rides for each member type by day of the week.
-   ![Alt Text](URL_to_image)
+   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/total%20no%20rides%20for%20mem%20type%20by%20day%20of%20the%20week.png)
+  
 3. Average ride length for each member type by day of the week. 
-   ![Alt Text](URL_to_image)
-4. Median ride length for each member type by day of the week. 
-   ![Alt Text](URL_to_image)
-5. Average ride length for each member type by month.
-   ![Alt Text](URL_to_image)
+   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/avg%20ride%20length%20for%20mem%20type%20by%20month.png)
+   
+5. Median ride length for each member type by day of the week. 
+   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/median%20ride%20length%20for%20mem%20type%20by%20day%20of%20the%20week.png)
+   
+7. Average ride length for each member type by month.
+   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/avg%20ride%20length%20for%20mem%20type%20by%20month.png)
 
 # Summary
 ***
