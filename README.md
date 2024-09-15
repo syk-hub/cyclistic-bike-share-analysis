@@ -4,7 +4,7 @@
 
 ## Project Overview
 ***
-This project analyzes Cyclistic bike-share data using the R programming language, with RStudio as the development environment. The analysis involves data cleaning, visualization, and statistical summaries, all performed with the `tidyverse` package. As a capstone project for the Google Data Analytics Certification, it explores factors that influence the demand for rental bikes using [City Bike Data](link-to-outside-file). The goal of this analysis is to understand how casual riders and annual members use Cyclistic bike-share services differently. The marketing team believes that increasing the number of annual memberships is critical to the company’s long-term success. By analyzing user behavior, this project aims to inform a marketing strategy focused on converting casual riders into annual members.
+This project analyzes Cyclistic bike-share data using the R programming language, with RStudio as the development environment. The analysis involves data cleaning, visualization, and statistical summaries, all performed with the `tidyverse` package. As a capstone project for the Google Data Analytics Certification, it explores factors that influence the demand for rental bikes using [City Bike Data](https://divvy-tripdata.s3.amazonaws.com/index.html). The goal of this analysis is to understand how casual riders and annual members use Cyclistic bike-share services differently. The marketing team believes that increasing the number of annual memberships is critical to the company’s long-term success. By analyzing user behavior, this project aims to inform a marketing strategy focused on converting casual riders into annual members.
 
 The Cyclistic bike-share data is publicly available through Motivate International Inc. subject to the [Divvy Bikes Data License Agreement](https://www.divvybikes.com/data-license-agreement). The dataset is provided in .CSV format and organized into yearly and quarterly zip files. For this project, I focused on the quarterly data from Q2 2019 to Q1 2020, which can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html):
 
@@ -25,7 +25,8 @@ The analysis process began with **data cleaning** to ensure consistency across t
 
 The data was sourced quarterly and needed to be combined into a single dataframe. The first step was renaming columns to ensure consistency across different quarters, as the column names varied slightly between files. The `rename()` function was used to standardize the column names to match the most recent year’s naming convention.
 
-Next, I converted relevant columns to consistent data types using the `mutate()` function. This ensured that variables like dates and times were properly formatted for further analysis. After these steps, I combined the four quarterly datasets—Q2 2019, Q3 2019, Q4 2019, and Q1 2020—into a single dataframe called [`all_trips`](link-to-cleaned-data).
+Next, I converted relevant columns to consistent data types using the `mutate()` function. This ensured that variables like dates and times were properly formatted for further analysis. After these steps, I combined the four quarterly datasets—Q2 2019, Q3 2019, Q4 2019, and Q1 2020—into a single dataframe called `all_trips`. You can download the cleaned dataset [here](https://drive.google.com/file/d/1H9Bvr2zZhjfVP-UOqrym7kramMNVriTN/view?usp=drive_link).
+
 
 
 ### Data Manipulation
