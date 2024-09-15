@@ -86,7 +86,7 @@ The following plots summarize these insights:
    ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/total%20no%20rides%20for%20mem%20type%20by%20day%20of%20the%20week.png)
   
 3. Average ride length for each member type by day of the week. 
-   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/avg%20ride%20length%20for%20mem%20type%20by%20month.png)
+   ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/avg%20no%20rides%20for%20mem%20type%20by%20day%20of%20the%20week.png)
    
 5. Median ride length for each member type by day of the week. 
    ![Alt Text](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/median%20ride%20length%20for%20mem%20type%20by%20day%20of%20the%20week.png)
