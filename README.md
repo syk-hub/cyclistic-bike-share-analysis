@@ -43,7 +43,7 @@ Once the data was cleaned and combined, I moved on to data manipulation. This in
 
 * **Removing invalid values**: I filtered out invalid or erroneous data, such as negative ride lengths or missing station names, to ensure the dataset was ready for accurate analysis.
 
-For full details on the data cleaning and transformation process, as well as the complete code, please refer to the attached R Markdown file [here](link-to-Rmd-file).
+For full details on the data cleaning and transformation process, as well as the complete code, please refer to the attached R Markdown file [here](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/Cyclistic%20Project%20R%20markdown%20V2.Rmd).
 
 
 # Exploratory Data Analysis
@@ -67,8 +67,7 @@ The average ride duration for each combination, allowing us to identify peak usa
 
 * The final step was to reorder the days of the week in a logical sequence (Sunday to Saturday) using the `ordered()` function, ensuring that the output was easy to interpret and analyze.
 
-For complete code and further details on the EDA process, please refer to the attached R Markdown file [here](link-to-Rmd-file).
-
+For complete code and further details on the EDA process, please refer to the attached R Markdown file [here](https://github.com/syk-hub/cyclistic-bike-share-analysis/blob/main/Cyclistic%20Project%20R%20markdown%20V2.Rmd).
 
 # Key Insights and Visualizations
 ***
